@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Encyclopedia of Tanks</string>
+    <string name="tank_name_item">Т-34</string>
+    <string name="tank_hp_item">400</string>
+    <string name="toolbar_item_search">Search</string>
+    <string name="tv_hp_title_details">Hp: </string>
+    <string name="tv_cost_title_details">Level: </string>
+    <string name="tv_exp_title_details">Weight: </string>
+</resources>
